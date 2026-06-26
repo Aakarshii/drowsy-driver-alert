@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚗 Touch-Sensitive Drowsy Driver Alert System
 
 A hardware-based, retrofittable safety device that detects when a driver loses hand contact with the steering wheel and immediately triggers an audible alert — no camera, no AI, no vehicle modification required.
@@ -156,3 +157,6 @@ Formal Invention Disclosure filed (IDF-B, Doc No. 02-IPR-R003). Potential protec
 ## 📄 License
 
 This project is for academic and research purposes. See `LICENSE` for details.
+=======
+# drowsy-driver-alert
+>>>>>>> c6bfed631d438a2f4f69ef4ed6e91c693da05c3a
